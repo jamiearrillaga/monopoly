@@ -1,3 +1,4 @@
 C++ program that simulates a Monopoly game
 
-makefile provided with excecutable "hoarding.out"
+command line: make
+              "hoarding.out"
